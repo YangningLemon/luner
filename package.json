@@ -1,0 +1,23 @@
+{
+  "name": "luner",
+  "version": "0.0.1",
+  "description": "这是一个ui组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/YangningLemon/luner.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "lemon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YangningLemon/luner/issues"
+  },
+  "homepage": "https://github.com/YangningLemon/luner#readme"
+}
